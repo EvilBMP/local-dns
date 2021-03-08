@@ -4,6 +4,7 @@
 | URL                   | Target                | Notes               |
 |-----------------------|-----------------------|---------------------|
 | *.127-0-0-1.org.uk    | 127.0.0.1             |                     |
+| *.ddev.site           | 127.0.0.1             |                     |
 | *.lacolhost.com       | 127.0.0.1             |                     |
 | *.localtest.me        | 127.0.0.1             | Except [readme.localtest.me](readme.localtest.me) |
 | *.localhost.tv        | 127.0.0.1             | Except localhost.tv |
